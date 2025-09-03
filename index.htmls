@@ -2,13 +2,21 @@
 
 <html lang=“en”> 
 
+<<<<<<< HEAD
 <head><title>?Sample Git</title></head> 
+=======
+<head><title>Sample Git?</title></head> 
+>>>>>>> fix-bug
 
 <body> 
 
-<h1>This is header go to github</h1> 
+<h1>This is header</h1> 
 
+<<<<<<< HEAD
 <h1>This is new feature On Git!!!</h1> 
+=======
+<h1>This is new feature on GIT!!!</h1>
+>>>>>>> fix-bug
 
 <p>This is paragraph1</p> 
 
